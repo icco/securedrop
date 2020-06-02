@@ -99,7 +99,7 @@ smmap2==2.0.3             # via gitdb2
 snowballstemmer==1.2.1    # via sphinx
 sphinx-autobuild==0.7.1
 sphinx-rtd-theme==0.2.4
-sphinx==1.6.3
+sphinx==3.0.4
 sphinxcontrib-websupport==1.0.1  # via sphinx
 stevedore==1.28.0         # via bandit
 tabulate==0.7.7           # via molecule
