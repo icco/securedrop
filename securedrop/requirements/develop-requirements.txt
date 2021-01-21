@@ -88,7 +88,7 @@ pytest==3.2.0             # via pytest-xdist, testinfra
 python-dateutil==2.6.1    # via arrow, botocore
 python-gilt==1.1.0        # via molecule
 pytz==2017.2              # via babel
-pyyaml==3.12              # via ansible, ansible-lint, bandit, dparse, molecule, python-gilt, sphinx-autobuild, watchdog, yamllint
+pyyaml==5.4              # via ansible, ansible-lint, bandit, dparse, molecule, python-gilt, sphinx-autobuild, watchdog, yamllint
 requests==2.18.3          # via docker-py, safety, sphinx
 s3transfer==0.1.12        # via boto3
 safety==1.6.1
